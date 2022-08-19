@@ -13,10 +13,10 @@ class EmailAddressParser
 
     end
 end
-puts EmailAddressParser.new("denno@doe.com,denni@doe.com").parse
+# puts EmailAddressParser.new("denno@doe.com,denni@doe.com").parse
 
-email_address="denno@doe.com,denni@doe.com"
-parser=EmailAddressParser.new(email_address)
+# email_address="denno@doe.com,denni@doe.com"
+# parser=EmailAddressParser.new(email_address)
 
-parser.parse
+# parser.parse
 
